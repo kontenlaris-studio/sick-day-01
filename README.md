@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280">
+
+<p>The funniest sick day excuse.</p>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FF7A00&color=0A1931)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)](https://opensource.org/licenses/MIT) [![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-FF7A00?style=for-the-badge&labelColor=0A1931&color=FF7A00)](https://github.com/kontenlaris-studio)
+</div>
+
 # sick-day-01
 
 [![make.fun · u-zeroxfive-the-funniest-sick-day-excuse-37423a36](https://make.fun/badge/u-zeroxfive-the-funniest-sick-day-excuse-37423a36.svg)](https://make.fun/bounty/u-zeroxfive-the-funniest-sick-day-excuse-37423a36?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-the-funniest-sick-day-excuse-37423a36)
